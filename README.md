@@ -20,12 +20,16 @@ b.若有Python環境可下載原始程式碼 執行
 
 ![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E5%AE%9A%E7%BE%A9%E9%81%B8%E6%88%90%E8%AA%9E.png)
 
-2.看例句選成語，所有資料來自同上
+2.看例句選成語，所有資料來自教育部網站
+![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E4%BE%8B%E5%8F%A5%E9%81%B8%E6%88%90%E8%AA%9E.png)
 
 3.英句選英單，所有例句來自 https://dictionary.cambridge.org/
+![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E8%8B%B1%E5%8F%A5%E9%81%B8%E8%8B%B1%E5%96%AE.png)
 
 4.中字選英單(特殊字)，所有例句來自 https://dictionary.cambridge.org/
+![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.%E7%89%B9%E6%AE%8A%E5%AD%97.png)
 
 5.中字選英單
+![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.png)
 
 
