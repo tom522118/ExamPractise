@@ -16,10 +16,14 @@ b.若有Python環境可下載原始程式碼 執行
 
 程式執行不需聯網 + 桌面會產生本日錯誤記錄（圖檔） 可讓小孩抄寫(朗讀) 或之後查詢（瞭解孩子的認知上碰到的疑惑）
 
-1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1 \n
+1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1
+
 2.看例句選成語，所有資料來自同上
+
 3.英句選英單，所有例句來自 https://dictionary.cambridge.org/
+
 4.中字選英單(特殊字)，所有例句來自 https://dictionary.cambridge.org/
+
 5.中字選英單
 
 
