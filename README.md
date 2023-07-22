@@ -18,7 +18,7 @@ b.若有Python環境可下載原始程式碼 執行
 
 1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1
 
-![Image](https://raw.github.com/tom522118/repositpry/main/ExamPractise/img/看定義選成語.png)
+![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E5%AE%9A%E7%BE%A9%E9%81%B8%E6%88%90%E8%AA%9E.png)
 
 2.看例句選成語，所有資料來自同上
 
