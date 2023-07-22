@@ -17,7 +17,7 @@ b.若有Python環境可下載原始程式碼 執行
 程式執行不需聯網 + 桌面會產生本日錯誤記錄（圖檔） 可讓小孩抄寫(朗讀) 或分析（瞭解孩子的認知上碰到的疑惑）
 
 1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1
-![Image text](https://raw.github.com/tom522118/repositpry/master/ExamPractise/img/看定義選成語.png)
+![Image text](https://raw.github.com/tom522118/repositpry/main/ExamPractise/img/看定義選成語.png)
 2.看例句選成語，所有資料來自同上
 
 3.英句選英單，所有例句來自 https://dictionary.cambridge.org/
