@@ -29,18 +29,18 @@ b.若有Python環境可下載原始程式碼 執行
 ![十選項作答](https://github.com/tom522118/ExamPractise/blob/main/img/中字選英單_一次出10個選項.png)
 
 1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1
-[![看定義選成語-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E5%AE%9A%E7%BE%A9%E9%81%B8%E6%88%90%E8%AA%9E.png)](https://www.youtube.com/watch?v=Q0lkc1DmE2E)]
+![看定義選成語-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E5%AE%9A%E7%BE%A9%E9%81%B8%E6%88%90%E8%AA%9E.png)](https://www.youtube.com/watch?v=Q0lkc1DmE2E)
 
 2.看例句選成語，所有資料來自教育部網站
-[![看例句選成語-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E4%BE%8B%E5%8F%A5%E9%81%B8%E6%88%90%E8%AA%9E.png)](https://www.youtube.com/watch?v=YUrB62C1DDA)]
+![看例句選成語-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E4%BE%8B%E5%8F%A5%E9%81%B8%E6%88%90%E8%AA%9E.png)](https://www.youtube.com/watch?v=YUrB62C1DDA)
 
 3.英句選英單，所有例句來自 https://dictionary.cambridge.org/
-[![英句選英單-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E8%8B%B1%E5%8F%A5%E9%81%B8%E8%8B%B1%E5%96%AE.png)](https://www.youtube.com/watch?v=GprFNEHsgAI)]
+![英句選英單-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E8%8B%B1%E5%8F%A5%E9%81%B8%E8%8B%B1%E5%96%AE.png)](https://www.youtube.com/watch?v=GprFNEHsgAI)
 
 4.中字選英單(特殊字)，所有例句來自 https://dictionary.cambridge.org/
-[![中字選英單(特殊字)-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.%E7%89%B9%E6%AE%8A%E5%AD%97.png)](https://www.youtube.com/watch?v=wMkoDjdOr5I)]
+![中字選英單(特殊字)-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.%E7%89%B9%E6%AE%8A%E5%AD%97.png)](https://www.youtube.com/watch?v=wMkoDjdOr5I)
 
 5.中字選英單
-[![中字選英單-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.png)](https://www.youtube.com/watch?v=TqO4TMnLq9s)]
+![中字選英單-點擊看影片](https://github.com/tom522118/ExamPractise/blob/main/img/%E4%B8%AD%E5%AD%97%E9%81%B8%E8%8B%B1%E5%96%AE.png)](https://www.youtube.com/watch?v=TqO4TMnLq9s)
 
 
