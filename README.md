@@ -16,6 +16,9 @@ b.若有Python環境可下載原始程式碼 執行
 
 程式執行不需聯網 + 桌面會產生本日錯誤記錄（圖檔） 可讓小孩抄寫(朗讀) 或分析（請和孩子聊聊認知上碰到的疑惑）
 
+可設定  
+![數值設置](https://github.com/tom522118/ExamPractise/blob/main/img/中字選英單_數值設置.png)
+
 1.看定義選成語，所有資料來自 教育部網站 https://dict.concised.moe.edu.tw/search.jsp?md=1
 ![看定義選成語](https://github.com/tom522118/ExamPractise/blob/main/img/%E7%9C%8B%E5%AE%9A%E7%BE%A9%E9%81%B8%E6%88%90%E8%AA%9E.png)
 
