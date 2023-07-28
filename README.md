@@ -14,7 +14,7 @@
 a.可直接於Win10環境下執行  
 b.若有Python環境可下載原始程式碼 執行  
 
-<span style="color:green;">程式執行不需聯網 + 桌面會產生本日錯誤記錄（圖檔）</span> 可讓小孩抄寫(朗讀) 或分析（請和孩子聊聊認知上碰到的疑惑）
+程式執行<span style="color:green;">不需聯網 + 桌面會產生本日錯誤記錄（圖檔）</span> 可讓小孩抄寫(朗讀) 或分析（請和孩子聊聊認知上碰到的疑惑）
 
 可設定  
 ![數值設置](https://github.com/tom522118/ExamPractise/blob/main/img/中字選英單_數值設置.png)
